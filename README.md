@@ -1,1 +1,2 @@
 # TriviaGame
+This is a trivia game with multiple choice questions. You will have 30 seconds to complete each question, and if you don't answer within those 30 seconds you will get an incorrect answer. You will receive your score once you have completed all of the questions.

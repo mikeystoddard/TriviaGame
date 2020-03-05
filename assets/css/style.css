@@ -1,0 +1,16 @@
+
+  body {
+    background: url("/Users/user/Documents/uawork/homework/TriviaGame/assets/images/1.jpg") center;
+    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 2.5em;
+    color: burlywood;
+    font-weight: 600;
+    margin: 10px auto;
+}
+#timer, #quizArea {
+    color: blanchedalmond;
+}
